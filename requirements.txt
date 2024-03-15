@@ -1,0 +1,13 @@
+# 参考 https://github.com/aws-samples/amazon-bedrock-workshop/blob/main/00_Intro/bedrock_boto3_setup.ipynb#Prerequisites
+diagrams>0.23.1
+botocore>=1.31.57
+boto3>=1.28.57
+awscli>=1.29.57
+streamlit
+transformers>=4.24,<5
+pillow>=10
+pypdf>=3.8,<4
+jq
+langchain>=0.0.35
+langchain_experimental
+langchain-community
